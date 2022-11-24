@@ -1,0 +1,1 @@
+Simple Fecth Api Data Using Pure JS
